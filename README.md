@@ -5,7 +5,7 @@
 > i hate exile
 
 **Established:** August 4, 2026  
-**Author:** [estonian-guy](https://ch.tetr.io/u/estonian-guy)
+**Author:** [estonian-guy](https://ch.tetr.io/u/estonian-guy)   
 **Status:** Hatred ongoing.
 
 ---
