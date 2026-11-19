@@ -1,16 +1,18 @@
-I HATE EXILE
+# I HATE EXILE
 
-The official historical record of Estonian-guy's hatred of The Exile in TETR.IO.
+**The official historical record of Estonian-guy's hatred of The Exile in TETR.IO.**
 
-i hate exile
+> i hate exile
 
-Established: August 4, 2026
-Author: estonian-guy
-Status: Hatred ongoing.
+**Established:** August 4, 2026  
+**Author:** [estonian-guy](https://ch.tetr.io/u/estonian-guy)
+**Status:** Hatred ongoing.
 
-The Origin
+---
 
-It all started with the Harbinger achievement.
+## The Origin
+
+It all started with the **Harbinger achievement**.
 
 I wanted to obtain it, and unfortunately, that meant dealing with The Exile.
 
@@ -28,25 +30,21 @@ I wasn't getting anywhere.
 
 I wasn't having fun. I wasn't improving at a reasonable pace. I was just repeatedly throwing myself against the same miserable modifier.
 
-The Training Arc
+## The Training Arc
 
 I eventually asked other players for help.
 
-At one point, six different people were helping me simultaneously. Interestingly, none of them knew that the other five were also helping me.
+At one point, **six different people were helping me simultaneously**. Interestingly, none of them knew that the other five were also helping me.
 
 Everyone had different advice and different things they wanted me to learn.
 
 I tried learning several techniques and loops:
 
-Mech Heart
-
-SDPC Loop
-
-Jigsaw PC Loop
-
-Mech TSD V1
-
-Mech TSD V2
+- Mech Heart
+- SDPC Loop
+- Jigsaw PC Loop
+- Mech TSD V1
+- Mech TSD V2
 
 Sometimes I would learn one technique, only to be told by another person that it might be overkill and that I should switch to something else.
 
@@ -54,51 +52,29 @@ Imagine spending hours learning a technique just to be told to abandon it.
 
 The entire experience was exhausting. I had six people teaching me different things, and somehow The Exile was still kicking my ass.
 
-The Close Attempts
+## The Close Attempts
 
 After countless attempts, I started getting increasingly close to Floor 3.
 
 These are the scores I remember getting before finally succeeding:
 
-Score
-
-Occurrences
-
-143m
-
-1
-
-144m
-
-1
-
-145m
-
-1
-
-147m
-
-4
-
-148m
-
-2
-
-149m
-
-1
-
-155.1m
-
-1 — SUCCESS
+| Score | Occurrences |
+|---|---:|
+| 143m | 1 |
+| 144m | 1 |
+| 145m | 1 |
+| 147m | 4 |
+| 148m | 2 |
+| 149m | 1 |
+| **155.1m** | **1 — SUCCESS** |
 
 I kept getting close, but never close enough.
 
-Eventually, I managed to get 155.1m, finally reaching Floor 3.
+Eventually, I managed to get **155.1m**, finally reaching Floor 3.
 
-The technique that got me there was Mech TSD V2.
+The technique that got me there was **Mech TSD V2**.
 
-The Victory
+## The Victory
 
 I finally obtained the Harbinger achievement after approximately three weeks of playing The Exile.
 
@@ -114,12 +90,12 @@ After that, I never touched The Exile again.
 
 I got what I wanted. The price was approximately 50 hours of my life and a permanent hatred for a fucking game modifier.
 
-The Steam Review
+## The Steam Review
 
 <details>
 <summary>My review of The Exile</summary>
 
-NOT RECOMMENDED
+# NOT RECOMMENDED
 
 I genuinely cannot express how much I despise this modifier.
 
@@ -165,51 +141,51 @@ I have no regrets about getting Harbinger.
 
 I regret ever touching The Exile.
 
-0/10. A monument to suffering. Never again.
+**0/10. A monument to suffering. Never again.**
 
 </details>
 
-The Community Legacy
+## The Community Legacy
 
-On August 4, 2026, the phrase "i hate exile" first appeared in my messages.
+On August 4, 2026, the phrase **"i hate exile"** first appeared in my messages.
 
 It gradually became a daily occurrence.
 
 I started saying it multiple times a day in TETR.IO Quick Play chat.
 
-Eventually, people started recognizing me as the Exile guy.
+Eventually, people started recognizing me as **the Exile guy**.
 
 Even when I'm not online, people mention me and my hatred of The Exile.
 
-On November 19, 2026, a Discord search for "i hate exile" showed approximately 731 results across the community.
+On November 19, 2026, a Discord search for "i hate exile" showed approximately **731 results across the community**.
 
 My personal estimate is that around 80% of those messages were written by me.
 
 That's an estimated 500+ messages dedicated to expressing my hatred.
 
-Frequently Asked Questions
+## Frequently Asked Questions
 
-Does Estonian-guy hate The Exile?
+**Does Estonian-guy hate The Exile?**
 
 Yes. Very much.
 
-Why does Estonian-guy hate The Exile?
+**Why does Estonian-guy hate The Exile?**
 
 Approximately 50 hours, 1,000+ attempts, three weeks of frustration, six helpers, and countless failed attempts to reach Floor 3.
 
-Did he ever beat it?
+**Did he ever beat it?**
 
 Yes. He obtained Harbinger with a final score of 155.1m using Mech TSD V2.
 
-Does he still play The Exile?
+**Does he still play The Exile?**
 
 No. He hasn't touched it since obtaining Harbinger.
 
-Would he be happy if The Exile was removed from TETR.IO?
+**Would he be happy if The Exile was removed from TETR.IO?**
 
 He would host a party.
 
-Final Declaration
+## Final Declaration
 
 I spent three weeks of my life trying to beat this modifier.
 
@@ -221,6 +197,8 @@ The Exile is a mistake. A miserable experience. A waste of 50 hours that I will 
 
 If it disappeared tomorrow, I would be one of the happiest TETR.IO players alive.
 
-i hate exile.
+**i hate exile.**
 
-Historical record established November 19, 2026.
+---
+
+*Historical record established November 19, 2026.*
