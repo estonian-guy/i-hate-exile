@@ -123,7 +123,7 @@ And what was my reward?
 
 Nothing. No happiness. No satisfaction. Just the knowledge that I would never have to look at this godforsaken modifier again.
 
-I would rather play Tyrant until my keyboard disintegrates. I would rather step on a landmine barefoot in a Grossi poe (that's a shop) parking lot than play this game for five more minutes. I would rather restart my life from the beginning being a mute, deaf, blind, and paralysed orphan in an active war than play FUCKING EXILE AGAIN.
+I would rather play Tyrant until my keyboard disintegrates. I would rather step on a landmine barefoot in a Grossi poe (that's a shop) parking lot than play exile for five more minutes. I would rather restart my life from the beginning being a mute, deaf, blind, and paralysed orphan in an active war than play FUCKING EXILE AGAIN.
 
 I would rather do literally ANYTHING.
 
@@ -184,6 +184,14 @@ No. He hasn't touched it since obtaining Harbinger.
 **Would he be happy if The Exile was removed from TETR.IO?**
 
 He would host a party.
+
+**Do you have any tips for anyone trying to play The Exile?**
+
+No. Don't play it.
+
+**Is it worth unlocking The Exile?**
+
+No. Absolutely not. Whatever reward you're expecting, it isn't worth what comes after.
 
 ## Final Declaration
 
