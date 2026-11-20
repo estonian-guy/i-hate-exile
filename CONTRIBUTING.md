@@ -1,31 +1,38 @@
-# Code of Conduct
+# Contributing
 
-## Our Standards
+Thanks for your interest in **I HATE EXILE**.
 
-I HATE EXILE is a personal historical archive documenting one player's ongoing hatred of The Exile in TETR.IO.
+This repository is a personal historical archive documenting the ongoing hatred of The Exile in TETR.IO.
 
-Everyone interacting with this repository is expected to:
+## How to Contribute
 
-- Be respectful towards other people.
-- Keep discussions relevant to the repository.
-- Avoid harassment, personal attacks, and unnecessary hostility.
-- Respect the author's ownership and editorial decisions.
+Although this is a personal project, suggestions are welcome.
 
-## What Is Not Acceptable
+You can:
 
-- Harassment or targeted abuse.
-- Publishing someone's private information without permission.
-- Spam or deliberately disruptive behavior.
-- Personal attacks disguised as criticism of the document.
+- Report incorrect historical information.
+- Suggest additions to the FAQ.
+- Share relevant experiences involving The Exile.
+- Point out spelling or formatting mistakes.
 
-## Enforcement
+## Pull Requests
 
-The repository owner reserves the right to moderate discussions, remove inappropriate contributions, close issues, and restrict participation when necessary.
+Pull requests are welcome for discussion and review.
 
-## Scope
+Please keep proposed changes:
 
-This Code of Conduct applies to all repository spaces, including issues, pull requests, and discussions.
+- Relevant to the repository.
+- Consistent with its existing tone.
+- Clear and properly explained.
 
----
+Submitting a pull request does not guarantee that it will be accepted.
 
-This is a personal project. The author has final say over its content and direction.
+## Final Decisions
+
+The repository owner has complete editorial control over the document.
+
+All decisions regarding its content, structure, and direction are ultimately made by the author.
+
+Thank you for helping maintain the historical record.
+
+**I hate Exile.**
