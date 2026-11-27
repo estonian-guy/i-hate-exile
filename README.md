@@ -209,9 +209,7 @@ If it disappeared tomorrow, I would be one of the happiest TETR.IO players alive
 
 ---
 
-*Historical record established November 19, 2026.*
-
-## The Farewell
+## The Farewell 
 
 Well, I suppose this is where it ends.
 
@@ -236,3 +234,4 @@ I don't know what comes next, but I know this chapter is over.
 **Goodbye, TETR.IO.**
 
 *And, of course, i will always hate exile.*
+*Historical record established November 19, 2026.*
