@@ -210,3 +210,29 @@ If it disappeared tomorrow, I would be one of the happiest TETR.IO players alive
 ---
 
 *Historical record established November 19, 2026.*
+
+## The Farewell
+
+Well, I suppose this is where it ends.
+
+For a while, TETR.IO was more than just a game to me. It was a place where I spent countless hours, met people, made memories, and became recognizable for something as stupid as hating a single game modifier.
+
+I never expected things to end like this.
+
+After losing access to my TETR.IO account and my Discord account, I've decided that it's time to leave this community behind.
+
+I'm disappointed. I'm frustrated. And honestly, I wish things had turned out differently.
+
+There are people I'll remember, conversations I'll miss, and experiences I'm glad I had. Not everything about this journey was bad.
+
+But I'm done trying to hold on to something that I can no longer be part of.
+
+This website was originally created to document my hatred for The Exile. Somehow, it ended up documenting a much bigger part of my time in TETR.IO.
+
+To everyone who helped me, played with me, talked to me, or simply recognized me in chat: thank you.
+
+I don't know what comes next, but I know this chapter is over.
+
+**Goodbye, TETR.IO.**
+
+*And, of course, i will always hate exile.*
